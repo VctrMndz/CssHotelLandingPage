@@ -172,7 +172,7 @@ section {
 .hero {
 	width: 100%;
 	height: 100vh;
-	background: url("images/hero_background.JPG") center no-repeat;
+	background: url("/images/hero_background.jpg") center no-repeat;
 	background-size: cover;
 	display: flex;
 	justify-content: center;
