@@ -182,16 +182,7 @@ section {
 	z-index: 0;
 }
 
-.hero:before {
-	content: '';
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: inherit;
-	height: inherit;
-	background-color: var(--purple-transparent);
-	z-index: -1;
-}
+
 
 .main-heading {
 	color: white;
